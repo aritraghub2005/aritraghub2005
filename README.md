@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?line=)](https://readme-typing-svg.demolab.com/demo/)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=32&duration=3999&pause=50&color=3ACDD5&background=47474700&width=1003&height=200&lines=Hello!+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Aritra+Jana;%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+a+Dedicated+Software+Developer...;Expanding+%F0%9F%9B%9C+my+Skill+Set+in+Java+Dev+and+DSA;%F0%9F%91%BE+committed+to+becoming+a+distinguished+Coder..." alt="Typing SVG" /></a>
 ![logo](https://github.com/aritraghub2005/aritraghub2005/blob/main/GitHub_Banner.png.png)
-<h1 align="center">Hi 👋, I'm Aritra Jana</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h1 align="center">I'm not lazy🦥, I'm just efficient🧑🏻‍💻.</h1>
+<h3 align="center">Let's Start🔰</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritraghub2005&label=Profile%20views&color=0e75b6&style=flat" alt="aritraghub2005" /> </p>
