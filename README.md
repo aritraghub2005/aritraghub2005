@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?line=)](https://readme-typing-svg.demolab.com/demo/)
 ![logo](https://github.com/aritraghub2005/aritraghub2005/blob/main/GitHub_Banner.png.png)
 <h1 align="center">Hi 👋, I'm Aritra Jana</h1>
 <h3 align="center">A passionate Software developer from India</h3>
